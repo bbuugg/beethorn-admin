@@ -97,4 +97,4 @@
 
 ## 支持开源
 
-如果您喜爱蜂刺（BeeThorn），请给常熬夜的作者资金赞助一下吧！[ 点我送咖啡](https://gitee.com/link?target=https%3A%2F%2Fys0abw.yuque.com%2Fys0abw%2Fephcr9%2Fzo38ua)
+如果您喜爱蜂刺（BeeThorn），请给常熬夜的作者资金赞助一下吧！
