@@ -1,10 +1,4 @@
-# 蜂刺轻内容管理系统
-
-![img](https://yxh-1301841944.cos.ap-chongqing.myqcloud.com/gfast/2022-04-19/gfastlogo.png)
-
-
-
-# BeeThorn V0.1.5
+# 蜂刺轻内容管理系统 BeeThorn V0.1.5
 
 [![goframe](https://img.shields.io/badge/goframe-1.x-brightgreen) ](https://gitee.com/link?target=https%3A%2F%2Fgoframe.org%2Fpages%2Fviewpage.action%3FpageId%3D1114119)[ ](https://img.shields.io/badge/vue-2-brightgreen)[![vue](https://img.shields.io/badge/vue-2.x-brightgreen) ](https://element-plus.gitee.io/#/zh-CN/component/changelog)[![nuxt](https://img.shields.io/badge/nuxt-2.x-orange) ](https://gitee.com/link?target=https%3A%2F%2Fwww.tslang.cn%2F)
 
@@ -97,4 +91,7 @@
 
 ## 支持开源
 
-如果您喜爱蜂刺（BeeThorn），请给常熬夜的作者资金赞助一下吧！[ 点我送咖啡](https://gitee.com/link?target=https%3A%2F%2Fys0abw.yuque.com%2Fys0abw%2Fephcr9%2Fzo38ua)
+如果您喜爱蜂刺（BeeThorn），请给常熬夜的作者资金赞助一下吧！
+
+![img](http://beethorn.com/public/uploads/2022-06-01/ckeqbzdsclv0qnccyn.png)
+
