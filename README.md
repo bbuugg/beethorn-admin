@@ -92,6 +92,9 @@
 ## 支持开源
 
 如果您喜爱蜂刺（BeeThorn），请给常熬夜的作者资金赞助一下吧！
+<<<<<<< HEAD
 
 ![img](http://beethorn.com/public/uploads/2022-06-01/ckeqbzdsclv0qnccyn.png)
 
+=======
+>>>>>>> b045d4598a7da1b00b789387bb193c86e7c7ebb6
